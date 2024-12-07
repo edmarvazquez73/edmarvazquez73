@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there. Welcome to my Github page! 👋
 
+I'm a freelance content and copywriter with a focus on tech and open-source software.
 <!--
 **edmarvazquez73/edmarvazquez73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
